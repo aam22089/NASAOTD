@@ -16,5 +16,7 @@ export class HomePage {
   ngOnInit() {
     this.nasaService.getImageOTD().subscribe((data) => { this.imageData = data });
   }
+  pastImage() {
 
+  }
 }
