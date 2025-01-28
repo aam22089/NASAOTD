@@ -1,0 +1,7 @@
+{
+  "name": "NASAOTD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
